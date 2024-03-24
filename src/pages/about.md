@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm a writer based out of Boston with 9 years experience in copy, 6 in content design and technical docs. I'm open to full-time and contract roles.
+I'm a writer based out of Boston (soon!) with 9 years experience in copy, 6 in content design and technical docs. I'm open to full-time and contract roles.
 
 My passions are TTRPGs, writing romance, drawing, and all things medieval. I spend most of my time playing video games and yelling (with love) at my toddler (cat).
 
