@@ -1,5 +1,5 @@
 ---
-author: jay
+author: jay torres
 pubDatetime: 2024-09-01T04:58:53.000Z
 title: Content Design - Discord Monetization
 slug: discord-monetization
