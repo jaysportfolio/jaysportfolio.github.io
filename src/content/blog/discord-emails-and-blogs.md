@@ -14,12 +14,8 @@ description:
 I was the only writer at Discord for a while and touched a lot of surfaces! Here's a few snippets of my longer work, including the popular Discord patch notes, where I somehow got people to care about when a chat app updated. A glorified newsletter with almost a 100 million readers and a 30% read through rate? Not bad.
 
 I was also the copy lead on the 2019/2020 brand refresh and updated all surfaces across the web and app,
-<LinkButton
-        className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-        href="https://www.discord.com/company"
-      >
-        which included this small but wholesome about section.
-      </LinkButton>
+      <a href="https://www.discord.com/company">
+        which included this small but wholesome about section.</a>
 
 <div>
   <img src="/assets/ex_2_copy.png" alt="copoy website example">
@@ -31,12 +27,10 @@ The Discord patch notes were one of the most popular parts of the app. They reci
   <source src="/assets/changelog.mp4" type="video/mp4">
 </video>
 
-<LinkButton
-        className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-        href="https://www.discord.com/blog/tidying-up-discord"
+<a href="https://www.discord.com/blog/tidying-up-discord"
       >
         One of the many blogs I helped write and edit.
-      </LinkButton>
+      </a>
 
 <div>
   <img src="/assets/ex_1_blog.png" alt="copoy website example">
