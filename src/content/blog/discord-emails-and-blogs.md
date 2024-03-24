@@ -16,7 +16,7 @@ I was the only writer at Discord for a while and touched a lot of surfaces! Here
 I was also the copy lead on the 2019/2020 brand refresh and updated all surfaces across the web and app,
 <LinkButton
         className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-        href="https://discord.com/company"
+        href="https://www.discord.com/company"
       >
         which included this small but wholesome about section.
       </LinkButton>
@@ -33,7 +33,7 @@ The Discord patch notes were one of the most popular parts of the app. They reci
 
 <LinkButton
         className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-        href="https://discord.com/blog/tidying-up-discord"
+        href="https://www.discord.com/blog/tidying-up-discord"
       >
         One of the many blogs I helped write and edit.
       </LinkButton>
