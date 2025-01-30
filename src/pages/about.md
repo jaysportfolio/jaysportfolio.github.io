@@ -3,16 +3,21 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm a writer based out of Boston (soon!) with 9 years experience in copy, 6 in content design and technical docs. I'm open to full-time and contract roles.
+I'm a writer based out of Boston with 9 years experience in copy, 6 in content design and technical docs. I'm open to full-time and contract roles.
 
-My passions are TTRPGs, writing romance, drawing, and all things medieval. I spend most of my time playing video games and yelling (with love) at my toddler (cat).
+My passions are TTRPGs, writing romance, drawing, and all things medieval. I spend most of my time playing video games and running after my cat.
 
 <table class="about-experience">
   <tbody>
+  <tr>
+      <td>City of Boston</td>
+      <td>UX Content Strategist</td>
+      <td>2025-Now</td>
+    </tr>
     <tr>
       <td>VRChat</td>
       <td>Technical Writer/Content Designer</td>
-      <td>2023-Now</td>
+      <td>2023-2024</td>
     </tr>
     <tr>
       <td>Discord</td>
@@ -22,7 +27,7 @@ My passions are TTRPGs, writing romance, drawing, and all things medieval. I spe
     <tr>
       <td>Zotac</td>
       <td>Marketing Writer</td>
-      <td>2018-2018</td>
+      <td>2018</td>
     </tr>
     <tr>
       <td>Various Startups</td>
